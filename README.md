@@ -4,3 +4,4 @@
 1. Servo
 2. sensor suhu
 3. LCD display
+4. Arduino UNO
